@@ -1,0 +1,141 @@
+h3 {
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 170%;
+}
+
+h4 {
+    font-family: "Trebuchet MS";
+    text-align: center;
+    font-size: 100%;
+    color: #ffffff;
+}
+
+h5 {
+    margin-top: 4px;
+    margin-bottom: auto;
+    margin-left: 4px;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+h6 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 200%;
+    font-weight: bold;
+}
+
+h7 {
+    font-family: "Trebuchet MS";
+    font-size: 100%;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+
+
+.form-control {
+    width: 400px;
+    font-size: 100%;
+
+}
+
+.dropdownListas {
+    margin-left: 2px;
+}
+
+.entradaNovaLista {
+    margin-left: auto;
+    margin-right: 200px;
+    margin-bottom: auto;
+    margin-top: 6px;
+    width: 280px;
+}
+.completa {
+    color: #000000;
+    background-color: #2fd800;
+}
+
+.negrito {
+    font-weight: bold;
+    text-decoration: line-through;
+}
+
+
+.prioridadeAlta {
+   color: red;
+}
+
+.prioridadeMedia {
+    color: #269abc;
+
+}
+.prioridadeBaixa {
+    color: #5cb85c;
+}
+
+.progress {
+    background-color: #aaa;
+}
+
+.progress-bar {
+    background-color: #2fd800;
+}
+
+.barraProgresso{
+    font-family: "Trebuchet MS";
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.table {
+    margin-top: 20px;
+    font-size: 100%;
+}
+
+.cantoMenu {
+    position:absolute;
+    top:0;
+    right:0;
+    margin-right: 5px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+th {
+    font-family: "Trebuchet MS";
+    font-weight: bold;
+}
+
+td {
+    font-family: "Trebuchet MS";
+    font-style: italic;
+}
+
+.btn-arredondado {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+.btn-arredondado.btn-lg {
+    width: 48px;
+    height: 48px;
+}
+
+.btn-arredondado.btn-sm {
+    width: 34px;
+    height: 34px;
+}
+
+.btn-arredondado.btn-xs {
+    width: 24px;
+    height: 24px;
+}
+
+.entreForms {
+    margin-bottom: 30px;
+}
